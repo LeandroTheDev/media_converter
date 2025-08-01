@@ -1,4 +1,4 @@
-# Media Converter
+# 🎥 Media Converter
 
 A command-line tool written in Rust that batch processes video files, converting them to a specified resolution, frame rate, bitrate, and file extension using `ffmpeg`.
 
